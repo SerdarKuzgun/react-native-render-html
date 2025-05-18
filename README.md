@@ -1,82 +1,86 @@
-<p align="center">
-  <div align="center">
-    <a href=""
-      ><img
-        src="https://img.shields.io/badge/platforms-Android%20%7C%20iOS%20%7C%20MacOs%20%7C%20Windows-brightgreen.svg?colorB=191A17"
-        alt="platforms"
-    /></a>
-    <a href="https://github.com/expo/expo"
-      ><img
-        src="https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat&amp;logo=EXPO&amp;labelColor=ffffff&amp;logoColor=000"
-        alt="runs with expo"
-    /></a>
-  </div>
-  <div align="center">
-    <a href="https://www.npmjs.com/package/react-native-render-html"
-      ><img
-        src="https://img.shields.io/npm/v/react-native-render-html/latest"
-        alt="npm"
-    /></a>
-    <a href="https://www.npmjs.com/package/react-native-render-html"
-      ><img
-        src="https://img.shields.io/npm/v/react-native-render-html/next"
-        alt="npm"
-    /></a>
-    <a href="https://www.npmjs.com/package/react-native-render-html"
-      ><img
-        src="https://img.shields.io/npm/dm/react-native-render-html.svg?colorB=007ec6"
-        alt="npm"
-    /></a>
-  </div>
-  <div align="center">
-    <a href="https://codecov.io/gh/meliorence/react-native-render-html"
-      ><img
-        src="https://img.shields.io/codecov/c/gh/meliorence/react-native-render-html"
-        alt=""
-    /></a>
-    <a
-      href="https://github.com/meliorence/react-native-render-html/actions?query=branch%3Amaster+workflow%3ACI"
-      ><img
-        src="https://github.com/meliorence/react-native-render-html/workflows/CI/badge.svg?branch=master"
-        alt=""
-    /></a>
-    <a href="https://github.com/meliorence/react-native-render-html/issues"
-      ><img
-        src="https://img.shields.io/github/issues/meliorence/react-native-render-html.svg"
-        alt="github issues"
-    /></a>
-    <a href="https://semver.org/spec/v2.0.0.html"
-      ><img src="https://img.shields.io/badge/semver-2.0.0-e10079.svg" alt=""
-    /></a>
-  </div>
-  <div align="center">
-    <a href="https://discord.gg/dbEMMJM"
-      ><img
-        src="https://img.shields.io/discord/736906960041148476?label=discord"
-        alt=""
-    /></a>
-    <a
-      href="https://openbase.com/js/react-native-render-html?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge"
-      ><img
-        src="https://badges.openbase.com/js/rating/react-native-render-html.svg"
-        alt="Rate on Openbase"
-    /></a>
-  </div>
-</p>
-<br/>
-<p align="center">
-    <a href="https://meliorence.github.io/react-native-render-html/"><img width="124" height="124" src="https://github.com/meliorence/react-native-render-html/raw/master/assets/logo.svg"></a>
-</p>
-<h1 align="center">react-native-render-html</h1>
-<p align="center">
-  <sup>Based on the original work of <a href="https://github.com/Thomas101">Thomas Beverley</a>, props to him.</sup>
-</p>
-<p align="center">
-An iOS/Android pure javascript react-native component that renders your HTML into 100% native views.
-</p>
-<p align="center">
-    <a href="https://meliorence.github.io/react-native-render-html/blog/2021/06/27/create-blog-app-rnrh-I"><img width="320" height="744" src="https://github.com/meliorence/react-native-render-html/raw/master/assets/demo.gif"></a>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>react-native-render-html</title>
+    <style>
+        body {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <div>
+        <a href="https://github.com/expo/expo">
+            <img src="https://img.shields.io/badge/platforms-Android%20%7C%20iOS%20%7C%20MacOs%20%7C%20Windows-brightgreen.svg?colorB=191A17" alt="Platforms">
+        </a>
+        <a href="https://github.com/expo/expo">
+            <img src="https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat&logo=EXPO&labelColor=ffffff&logoColor=000" alt="Runs with Expo">
+        </a>
+    </div>
+
+    <div>
+        <a href="https://www.npmjs.com/package/react-native-render-html">
+            <img src="https://img.shields.io/npm/v/react-native-render-html/latest" alt="NPM Latest">
+        </a>
+        <a href="https://www.npmjs.com/package/react-native-render-html">
+            <img src="https://img.shields.io/npm/v/react-native-render-html/next" alt="NPM Next">
+        </a>
+        <a href="https://www.npmjs.com/package/react-native-render-html">
+            <img src="https://img.shields.io/npm/dm/react-native-render-html.svg?colorB=007ec6" alt="NPM Downloads">
+        </a>
+    </div>
+
+    <div>
+        <a href="https://codecov.io/gh/meliorence/react-native-render-html">
+            <img src="https://img.shields.io/codecov/c/gh/meliorence/react-native-render-html" alt="Codecov">
+        </a>
+        <a href="https://github.com/meliorence/react-native-render-html/actions?query=branch%3Amaster+workflow%3ACI">
+            <img src="https://github.com/meliorence/react-native-render-html/workflows/CI/badge.svg?branch=master" alt="CI Status">
+        </a>
+        <a href="https://github.com/meliorence/react-native-render-html/issues">
+            <img src="https://img.shields.io/github/issues/meliorence/react-native-render-html.svg" alt="GitHub Issues">
+        </a>
+        <a href="https://semver.org/spec/v2.0.0.html">
+            <img src="https://img.shields.io/badge/semver-2.0.0-e10079.svg" alt="SemVer">
+        </a>
+    </div>
+
+    <div>
+        <a href="https://discord.gg/dbEMMJM">
+            <img src="https://img.shields.io/discord/736906960041148476?label=Discord" alt="Join Discord">
+        </a>
+        <a href="https://openbase.com/js/react-native-render-html">
+            <img src="https://badges.openbase.com/js/rating/react-native-render-html.svg" alt="Rate on Openbase">
+        </a>
+    </div>
+
+    <br>
+
+    <a href="https://meliorence.github.io/react-native-render-html/">
+        <img width="124" height="124" src="https://github.com/meliorence/react-native-render-html/raw/master/assets/logo.svg" alt="React Native Render HTML Logo">
+    </a>
+
+    <h1>react-native-render-html</h1>
+
+    <p>
+        <sup>Based on the original work of <a href="https://github.com/Thomas101">Thomas Beverley</a>, props to him.</sup>
+    </p>
+
+    <p>
+        An iOS/Android pure JavaScript React Native component that renders your HTML into 100% native views.
+    </p>
+
+    <p>
+        <a href="https://meliorence.github.io/react-native-render-html/blog/2021/06/27/create-blog-app-rnrh-I">
+            <img width="320" height="744" src="https://github.com/meliorence/react-native-render-html/raw/master/assets/demo.gif" alt="Demo GIF">
+        </a>
+    </p>
+
+</body>
+</html>
 
 ### 🗃️ Releases
 
